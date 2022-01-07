@@ -2,7 +2,7 @@
 
 ## :white_medium_small_square: About me 🧑:
 
-I am Gurdeep Singh from Ambala,Haryana. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional web, android and ios applications.
+I am Gurdeep Singh from Ambala,Haryana. I am a technology enthusiast, competent, well-focused fullstack developer👨‍💻. I am passionate about building fully functional webapplications.
 
 I am skilled in HTML, CSS, Javascript, ReactJS, Redux,Node, Mongodb, Express. I am good in data structure and algorithms.
 
