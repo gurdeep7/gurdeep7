@@ -12,7 +12,7 @@ When I am not coding, I like gardening and board games
 
 - 👉 Visit my **[Portfolio](https://gurdeep-singh.netlify.app/)**
 
-- 👉 See my  **[Resume](https://gurdeep-singh.netlify.app/static/media/Gurdeep_Singh_Resume.7d2afd30.pdf)**
+- 👉 See my  **[Resume](https://tinyurl.com/mtxymahx)**
 
 - 📫 You can reach out to me on **[LinkedIn](https://www.linkedin.com/in/gurdeep7/)**
 
